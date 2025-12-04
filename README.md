@@ -1,4 +1,4 @@
-# Engineering Security Tools With a Touch of Humor
+# Engineering Mobile SDKs
 
 I'm Jan (but everybody calls me `kober`) — a frontend developer with more than **10 years of experience** building security-focused software (mostly in banking, where the apps must be friendly but the rules are not 😅).
 
