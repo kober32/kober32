@@ -1,12 +1,12 @@
 # Engineering Mobile SDKs
 
-I'm Jan (but everybody calls me `kober`) — a frontend developer with more than **10 years of experience** building security-focused software (mostly in banking, where the apps must be friendly but the rules are not 😅).
+I'm Jan (but everybody calls me `kober`) — a frontend developer with more than **10 years of experience** building software (mostly in banking, where the apps must be friendly but the rules are not 😅).
 
 Although I occasionally build full applications, my main focus is on **SDK development** — creating secure, reliable building blocks that other developers depend on (and hopefully don’t curse too much).
 
 ## 🧑‍💻 What I Do
 
-- Develop and maintain **security-focused SDKs**  
+- Develop and maintain SDKs
 - Occasionally build applications using those SDKs (dogfooding is a lifestyle)  
 - Lead a **small team of developers** on a daily basis  
 - Interview developer candidates and help shape the team  
@@ -29,9 +29,9 @@ Although I occasionally build full applications, my main focus is on **SDK devel
 - **Bash** (for all those mysterious scripts nobody wants to touch)
 
 ### CI/CD & DevOps experience
-- Azure DevOps  
-- Jenkins  
+- Azure DevOps
 - GitHub Actions  
+- Jenkins  
 - TeamCity  
 
 ## Totally Real and Absolutely Authentic Recommendations
