@@ -34,6 +34,22 @@ Although I occasionally build full applications, my main focus is on **SDK devel
 - Jenkins  
 - TeamCity  
 
+## 🤖 AI-Assisted Development
+
+I actively use modern AI tools to improve development speed, code quality, and overall project efficiency. This includes:
+
+- Leveraging AI for **code generation, refactoring, and review**
+- Using AI to assist with **architecture decisions and technical planning**
+- Integrating AI into workflows for **debugging and problem-solving**
+- Applying AI across multiple ecosystems and languages
+
+### Tools I work with
+- **Codex**
+- **Claude**
+- **Gemini**
+
+I treat AI as a **pair programmer that never sleeps** — great for exploring solutions, validating ideas, and speeding up iteration — while still relying on solid engineering judgment for final decisions.
+
 ## Totally Real and Absolutely Authentic Recommendations
 
 > **“Jan once fixed a race condition by just staring at the code until it felt ashamed and corrected itself.  
