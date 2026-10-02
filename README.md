@@ -1,64 +1,38 @@
-# Engineering Mobile SDKs
+# 👋 Hi, I'm Jan (aka `kober`)
 
-I'm Jan (but everybody calls me `kober`) — a frontend developer with more than **10 years of experience** building software (mostly in banking, where the apps must be friendly but the rules are not 😅).
+**Principal Mobile Engineer & SDK Lead** with 10+ years of experience building secure, high-stakes software — mostly in fintech and banking, where user experiences need to be smooth and security rules are non-negotiable 😅.
 
-Although I occasionally build full applications, my main focus is on **SDK development** — creating secure, reliable building blocks that other developers depend on (and hopefully don’t curse too much).
+While I occasionally build end-to-end applications, my main focus is **SDK development**: crafting secure, resilient, developer-friendly building blocks that other engineers can depend on with confidence (and zero curse words).
 
-## 🧑‍💻 What I Do
+---
 
-- Develop and maintain SDKs
-- Occasionally build applications using those SDKs (dogfooding is a lifestyle)  
-- Lead a **small team of developers** on a daily basis  
-- Interview developer candidates and help shape the team  
-- Communicate with customers and handle **technical support** for the products I develop  
-- Manage and maintain CI/CD pipelines across different environments
+## 🛠️ What I Do
 
-## 🔧 Technologies & Tools
+- **SDK Engineering & Architecture** — Design, build, and maintain multi-platform SDKs with clean public APIs and rock-solid security.
+- **Technical Leadership** — Lead engineering teams, interview developer candidates, and foster a healthy engineering culture.
+- **Dogfooding** — Build reference applications using my own SDKs to guarantee a seamless developer experience.
+- **CI/CD & DevOps** — Maintain automated build, test, and release pipelines across complex multi-platform environments.
+- **Client Support & Solutions** — Communicate directly with customer engineering teams to troubleshoot integration challenges.
 
-### Platforms I actively develop on
-- **iOS**  
-- **Android**  
-- **Flutter**  
-- **React Native, Cordova**  
-- **Web (React/CSS/HTML)**  
+---
 
-### Languages I use regularly
-- **Swift**, **Kotlin**, **Typescript**  
-- **Java**, **Objective-C**  
-- **C**, **C++**  
-- **Bash** (for all those mysterious scripts nobody wants to touch)
+## 💻 Stacks & Tools
 
-### CI/CD & DevOps experience
-- Azure DevOps
-- GitHub Actions  
-- Jenkins  
-- TeamCity  
+| Category | Technologies |
+| :--- | :--- |
+| **Platforms** | iOS, Android, Flutter, React Native, Cordova, Web (React) |
+| **Languages** | Swift, Kotlin, TypeScript, Java, Objective-C, C, C++, Bash |
+| **CI/CD & DevOps** | GitHub Actions, Azure DevOps, Jenkins, TeamCity |
 
-## 🤖 AI-Assisted Development
+---
 
-I actively use modern AI tools to improve development speed, code quality, and overall project efficiency. This includes:
+## 💬 Totally Real & Authentic Recommendations
 
-- Leveraging AI for **code generation, refactoring, and review**
-- Using AI to assist with **architecture decisions and technical planning**
-- Integrating AI into workflows for **debugging and problem-solving**
-- Applying AI across multiple ecosystems and languages
-
-### Tools I work with
-- **Codex**
-- **Claude**
-- **Gemini**
-
-I treat AI as a **pair programmer that never sleeps** — great for exploring solutions, validating ideas, and speeding up iteration — while still relying on solid engineering judgment for final decisions.
-
-## Totally Real and Absolutely Authentic Recommendations
-
-> **“Jan once fixed a race condition by just staring at the code until it felt ashamed and corrected itself.  
-> 10/10 would let him review my PRs again.”**  
+> **“Jan once fixed a race condition by staring at the code until it felt ashamed and corrected itself. 10/10 would let him review my PRs again.”**  
 > — *Definitely Not a Backend Developer*
 
 > **“Our SDK had 327 issues. Jan touched it once, and suddenly it had only 326 issues. Incredible progress.”**  
 > — *Senior Architect of Unknown Purpose*
 
-> **“Working with Jan is like having a senior developer, support engineer, and stand-up comedian all in one.  
-> He explains complex things simply, jumps in to help anytime, and somehow keeps the team laughing during production outages.”**  
-> — *Developer that is no longer working with Jan* 
+> **“Working with Jan is like having a senior engineer, support lead, and stand-up comedian all in one. He explains complex ideas simply, jumps into production fires, and keeps morale high.”**  
+> — *Developer who survived the last release*
